@@ -92,4 +92,7 @@ h2 {
 }
 
 
-
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: brightness(0) saturate(100%);
+}
